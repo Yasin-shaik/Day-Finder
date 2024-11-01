@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 find_odd_days(int date,int mon,int year)
 {
         int odd_days_count=0,i;
